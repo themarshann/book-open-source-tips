@@ -1,0 +1,27 @@
+=== Mapupuntahan
+
+Gawing **Madaling Mapuntahan** ang proyekto.
+
+Ito ay may dalawang (2) pag-uuri:
+
+
+==== Ibaba ang hadlang sa pagpasok
+
+Pahintulutan ang lahat ng mga tao, mga nakababata hanggang sa nakatatanda na maging parte ng komunidad at mag-ambag.
+
+* GitHub template <<_github_template_files,at iba pang impormasyon>>
+* Awtomatikong binuong mga pagsusulit <<_automation_tests_continuous_integration_ci_continuous_deployment_cd,at iba pang impormasyon>>
+* ...
+
+==== Ang resultang produkto ay kailangang magsilbi para sa lahat
+
+Ang pagpunta ng lahat anuman ang kapansanan (hal. may kapansanan sa paningin) ay kritikal sa tagumpay ng anumang proyekto.
+
+Halimbawa:
+
+* Alternatibong `alt` teksto para sa mga imahe
+* Input sa tipahan maging sa mouse
+* Salin para sa mga video
+* ...
+
+PAALALA: Maging mapagpabilang
