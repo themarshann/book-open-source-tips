@@ -1,27 +1,27 @@
-=== Accessible
+=== Mapupuntahan
 
-Make the project **Accessible**.
+Gawing **Madaling Mapuntahan** ang proyekto.
 
-This has 2 areas:
+Ito ay may dalawang (2) pag-uuri:
 
 
-==== Lower the barrier to entry
+==== Ibaba ang hadlang sa pagpasok
 
-Allow all people, juniors to seniors to be part of the community & contribute.
+Pahintulutan ang lahat ng mga tao, mga nakababata hanggang sa nakatatanda na maging parte ng komunidad at mag-ambag.
 
-* GitHub template <<_github_template_files,more information>>
-* Automated tests <<_automation_tests_continuous_integration_ci_continuous_deployment_cd,more information>>
+* GitHub template <<_github_template_files,at iba pang impormasyon>>
+* Awtomatikong binuong mga pagsusulit <<_automation_tests_continuous_integration_ci_continuous_deployment_cd,at iba pang impormasyon>>
 * ...
 
-==== The resulting product needs to cater for all
+==== Ang resultang produkto ay kailangang magsilbi para sa lahat
 
-Access by everyone regardless of disability (e.g. visually impaired) is critical to the success of any project.
+Ang pagpunta ng lahat anuman ang kapansanan (hal. may kapansanan sa paningin) ay kritikal sa tagumpay ng anumang proyekto.
 
-For example:
+Halimbawa:
 
-* Alternative `alt` text for images
-* Keyboard input as well as mouse
-* Transcripts for videos
+* Alternatibong `alt` teksto para sa mga imahe
+* Input sa tipahan maging sa mouse
+* Salin para sa mga video
 * ...
 
-TIP: Be inclusive
+PAALALA: Maging mapagpabilang
